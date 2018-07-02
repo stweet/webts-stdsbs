@@ -1,0 +1,30 @@
+{
+  "name": "webts-stdsbs",
+  "version": "1.0.0",
+  "description": "Typescript step-by-step execution (cli)",
+  "main": "./bin",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stweet/webts-stdsbs.git"
+  },
+  "keywords": [
+    "typescript",
+    "cli"
+  ],
+  "author": "stweet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stweet/webts-stdsbs/issues"
+  },
+  "homepage": "https://github.com/stweet/webts-stdsbs#readme",
+  "devDependencies": {
+    "@types/node": "^10.5.1",
+    "@types/typescript": "^2.0.0"
+  }
+}
