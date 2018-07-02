@@ -33,4 +33,4 @@ stack.execute(args)
 
 // Imread path: stweet/art
 
-// ConsoleBye.bye: "Empty message"
+// ConsoleBye.bye: "This is bye message"
